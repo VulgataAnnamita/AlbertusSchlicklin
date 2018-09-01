@@ -41,7 +41,7 @@
 |**[chưa có bản scan]**|Lamentationes|<span style="color:red" text-align="center">0/5</span>|
 |**[chưa có bản scan]**|Baruch|<span style="color:red" text-align="center">0/6</span>|
 |**[chưa có bản scan]**|Ezechiel|<span style="color:red" text-align="center">0/48</span>|
-|**[chưa có bản scan]**|Daniel|<span style="color:red" text-align="center">0/14</span>|
+|Sách Tiên Tri Đaniel<br>**[chưa có bản scan]**|Daniel|<span style="color:red" text-align="center">0/14</span>|
 |Sách Tiên Tri Osse|Osse|<span style="color:red" text-align="center">0/14</span>|
 |Sách Tiên Tri Joel|Joël|<span style="color:red" text-align="center">0/3</span>|
 |Sách Tiên Tri Amos|Amos|<span style="color:red" text-align="center">0/9</span>|
@@ -65,8 +65,8 @@
 |Thánh Evan Chúa Jêsu Kirixitô, cứ như lời ông Luca chép|Evangelium secundum Lucas|<span style="color:red" text-align="center">0/24</span>|
 |Thánh Evan Đức Chúa Jêsu Kirixitô, cứ như lời ông Juong chép|Evangelium secundum Joannes|<span style="color:red" text-align="center">0/21</span>|
 |Sách Truyện Các Tông Đồ|Actus Apostolorum|<span style="color:red" text-align="center">0/28</span>|
-|Thư Ông Thánh Bảo Lộc Tông Đồ cho người Roma|ad Romanos|<span style="color:red" text-align="center">0/16</span>|
-|Thư Thứ Nhất Ông Thánh Bảo Lộc Tông Đồ cho người Corinthô|ad Corinthios I|<span style="color:red" text-align="center">0/16</span>|
+|Thư Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Roma|ad Romanos|<span style="color:red" text-align="center">0/16</span>|
+|Thư Thứ Nhất Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Corinthô|ad Corinthios I|<span style="color:red" text-align="center">0/16</span>|
 |Thư Thứ Hai Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Corinthô|ad Corinthios II|<span style="color:red" text-align="center">0/13</span>|
 |Thư Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Galatia|ad Galatas|<span style="color:red" text-align="center">0/6</span>|
 |Thư Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Ephesô|ad Ephesios|<span style="color:red" text-align="center">0/6</span>|
