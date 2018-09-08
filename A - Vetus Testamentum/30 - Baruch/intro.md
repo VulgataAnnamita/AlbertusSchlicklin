@@ -1,0 +1,1 @@
+Nhập phần tựa cho "Baruch" tại đây (theo định dạng Markdown nếu có thể).
