@@ -10,80 +10,80 @@
 ### Sấm Truyền Cũ *(Vetus Testamentum)*
 |Tựa sách|Tên theo Vulgata|Trạng thái|
 |--------|----------------|----------|
-|Genesis|Genesis|<span style="color:red" text-align="center">0/50</span>|
-|Exodus|Exodus|<span style="color:red" text-align="center">0/40</span>|
-|**[chưa có bản scan]**|Leviticus|<span style="color:red" text-align="center">0/27</span>|
-|**[chưa có bản scan]**|Numeri|<span style="color:red" text-align="center">0/36</span>|
-|**[chưa có bản scan]**|Deuteronomium|<span style="color:red" text-align="center">0/34</span>|
-|**[chưa có bản scan]**|Josue|<span style="color:red" text-align="center">0/24</span>|
-|**[chưa có bản scan]**|Judicum|<span style="color:red" text-align="center">0/21</span>|
-|**[chưa có bản scan]**|Ruth|<span style="color:red" text-align="center">0/4</span>|
-|**[chưa có bản scan]**|Regum I|<span style="color:red" text-align="center">0/31</span>|
-|**[chưa có bản scan]**|Regum II|<span style="color:red" text-align="center">0/24</span>|
-|**[chưa có bản scan]**|Regum III|<span style="color:red" text-align="center">0/22</span>|
-|**[chưa có bản scan]**|Regum IV|<span style="color:red" text-align="center">0/25</span>|
-|Sách Paralipomenon I<br>**[chưa có bản scan]**|Paralipomenon I|<span style="color:red" text-align="center">0/29</span>|
-|Sách Paralipomenon II<br>**[chưa có bản scan]**|Paralipomenon II|<span style="color:red" text-align="center">0/36</span>|
-|Sách Esđra<br>**[chưa có bản scan]**|Esdræ|<span style="color:red" text-align="center">0/10</span>|
-|Sách Nehemia<br>**[chưa có bản scan]**|Nehemiæ|<span style="color:red" text-align="center">0/13</span>|
-|Sách Tobia<br>**[chưa có bản scan]**|Tobiæ|<span style="color:red" text-align="center">0/14</span>|
-|Sách bà Juđith<br>**[chưa có bản scan]**|Judith|<span style="color:red" text-align="center">0/16</span>|
-|Sách bà Esther<br>**[chưa có bản scan]**|Esther|<span style="color:red" text-align="center">0/16</span>|
-|Sách ông Job<br>**[chưa có bản scan]**|Job|<span style="color:red" text-align="center">0/42</span>|
-|Sách thánh vịnh|Psalmi|<span style="color:red" text-align="center">0/150</span>|
-|Sách dụ ngôn|Proverbia|<span style="color:red" text-align="center">0/31</span>|
-|Sách kẻ giảng|Ecclesiastes|<span style="color:red" text-align="center">0/12</span>|
-|Ca đệ nhất|Canticum Canticorum|<span style="color:red" text-align="center">0/8</span>|
-|Sách dạy sự khôn ngoan|Sapientia|<span style="color:red" text-align="center">0/19</span>|
-|Sách giảng dạy|Ecclesiasticus|<span style="color:red" text-align="center">0/51</span>|
-|Sách Tiên Tri Isaia|Isaias|<span style="color:red" text-align="center">0/66</span>|
-|Sách Tiên Tri Jeremia<br>**[chưa có bản scan]**|Jeremias|<span style="color:red" text-align="center">0/52</span>|
-|**[chưa có bản scan]**|Lamentationes|<span style="color:red" text-align="center">0/5</span>|
-|**[chưa có bản scan]**|Baruch|<span style="color:red" text-align="center">0/6</span>|
-|**[chưa có bản scan]**|Ezechiel|<span style="color:red" text-align="center">0/48</span>|
-|Sách Tiên Tri Đaniel<br>**[chưa có bản scan]**|Daniel|<span style="color:red" text-align="center">0/14</span>|
-|Sách Tiên Tri Osse|Osse|<span style="color:red" text-align="center">0/14</span>|
-|Sách Tiên Tri Joel|Joël|<span style="color:red" text-align="center">0/3</span>|
-|Sách Tiên Tri Amos|Amos|<span style="color:red" text-align="center">0/9</span>|
-|Sách Tiên Tri Abđia|Abdias|<span style="color:red" text-align="center">0/1</span>|
-|Sách Tiên Tri Jona|Jonas|<span style="color:red" text-align="center">0/4</span>|
-|Sách Tiên Tri Michea|Michæa|<span style="color:red" text-align="center">0/7</span>|
-|Sách Tiên Tri Nahum|Nahum|<span style="color:red" text-align="center">0/3</span>|
-|Sách Tiên Tri Habacuc|Habacuc|<span style="color:red" text-align="center">0/3</span>|
-|Sách Tiên Tri Sophonia|Sophonias|<span style="color:red" text-align="center">0/3</span>|
-|Sách Tiên Tri Aggeô|Aggæus|<span style="color:red" text-align="center">0/2</span>|
-|Sách Tiên Tri Zacharia|Zacharias|<span style="color:red" text-align="center">0/14</span>|
-|Sách Tiên Tri Malachia|Malachias|<span style="color:red" text-align="center">0/4</span>|
-|**[chưa có bản scan]**|Machabæorum I|<span style="color:red" text-align="center">0/16</span>|
-|**[chưa có bản scan]**|Machabæorum II|<span style="color:red" text-align="center">0/15</span>|
+|Genesis|Genesis|5/50|
+|Exodus|Exodus|0/40|
+|**[chưa có bản scan]**|Leviticus|0/27|
+|**[chưa có bản scan]**|Numeri|0/36|
+|**[chưa có bản scan]**|Deuteronomium|0/34|
+|**[chưa có bản scan]**|Josue|0/24|
+|**[chưa có bản scan]**|Judicum|0/21|
+|**[chưa có bản scan]**|Ruth|0/4|
+|**[chưa có bản scan]**|Regum I|0/31|
+|**[chưa có bản scan]**|Regum II|0/24|
+|**[chưa có bản scan]**|Regum III|0/22|
+|**[chưa có bản scan]**|Regum IV|0/25|
+|Sách Paralipomenon I<br>**[chưa có bản scan]**|Paralipomenon I|0/29|
+|Sách Paralipomenon II<br>**[chưa có bản scan]**|Paralipomenon II|0/36|
+|Sách Esđra<br>**[chưa có bản scan]**|Esdræ|0/10|
+|Sách Nehemia<br>**[chưa có bản scan]**|Nehemiæ|0/13|
+|Sách Tobia<br>**[chưa có bản scan]**|Tobiæ|0/14|
+|Sách bà Juđith<br>**[chưa có bản scan]**|Judith|0/16|
+|Sách bà Esther<br>**[chưa có bản scan]**|Esther|0/16|
+|Sách ông Job<br>**[chưa có bản scan]**|Job|0/42|
+|Sách thánh vịnh|Psalmi|0/150|
+|Sách dụ ngôn|Proverbia|0/31|
+|Sách kẻ giảng|Ecclesiastes|0/12|
+|Ca đệ nhất|Canticum Canticorum|0/8|
+|Sách dạy sự khôn ngoan|Sapientia|0/19|
+|Sách giảng dạy|Ecclesiasticus|0/51|
+|Sách Tiên Tri Isaia|Isaias|0/66|
+|Sách Tiên Tri Jeremia<br>**[chưa có bản scan]**|Jeremias|0/52|
+|**[chưa có bản scan]**|Lamentationes|0/5|
+|**[chưa có bản scan]**|Baruch|0/6|
+|**[chưa có bản scan]**|Ezechiel|0/48|
+|Sách Tiên Tri Đaniel<br>**[chưa có bản scan]**|Daniel|0/14|
+|Sách Tiên Tri Osse|Osse|0/14|
+|Sách Tiên Tri Joel|Joël|0/3|
+|Sách Tiên Tri Amos|Amos|0/9|
+|Sách Tiên Tri Abđia|Abdias|0/1|
+|Sách Tiên Tri Jona|Jonas|0/4|
+|Sách Tiên Tri Michea|Michæa|0/7|
+|Sách Tiên Tri Nahum|Nahum|0/3|
+|Sách Tiên Tri Habacuc|Habacuc|0/3|
+|Sách Tiên Tri Sophonia|Sophonias|0/3|
+|Sách Tiên Tri Aggeô|Aggæus|0/2|
+|Sách Tiên Tri Zacharia|Zacharias|0/14|
+|Sách Tiên Tri Malachia|Malachias|0/4|
+|**[chưa có bản scan]**|Machabæorum I|0/16|
+|**[chưa có bản scan]**|Machabæorum II|0/15|
 
 ### Sấm Truyền Mới *(Novus Testamentum)*
 |Tựa sách|Tên theo Vulgata|Trạng thái|
 |--------|----------------|----------|
-|Thánh Evan Chúa Jêsu Kirixitô, cứ như lời ông Mattheô chép|Evangelium secundum Matthæus|<span style="color:red" text-align="center">0/28</span>|
-|Thánh Evan Chúa Jêsu Kirixitô, cứ như lời ông Marcô chéo|Evangelium secundum Marcus|<span style="color:red" text-align="center">0/16</span>|
-|Thánh Evan Chúa Jêsu Kirixitô, cứ như lời ông Luca chép|Evangelium secundum Lucas|<span style="color:red" text-align="center">0/24</span>|
-|Thánh Evan Đức Chúa Jêsu Kirixitô, cứ như lời ông Juong chép|Evangelium secundum Joannes|<span style="color:red" text-align="center">0/21</span>|
-|Sách Truyện Các Tông Đồ|Actus Apostolorum|<span style="color:red" text-align="center">0/28</span>|
-|Thư Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Roma|ad Romanos|<span style="color:red" text-align="center">0/16</span>|
-|Thư Thứ Nhất Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Corinthô|ad Corinthios I|<span style="color:red" text-align="center">0/16</span>|
-|Thư Thứ Hai Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Corinthô|ad Corinthios II|<span style="color:red" text-align="center">0/13</span>|
-|Thư Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Galatia|ad Galatas|<span style="color:red" text-align="center">0/6</span>|
-|Thư Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Ephesô|ad Ephesios|<span style="color:red" text-align="center">0/6</span>|
-|Thư Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Philippe|ad Philippenses|<span style="color:red" text-align="center">0/4</span>|
-|Thư Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Colosse|ad Colossenses|<span style="color:red" text-align="center">0/4</span>|
-|Thư Thứ Nhất Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Thessalonica|ad Thessalonicenses I|<span style="color:red" text-align="center">0/5</span>|
-|Thư Thứ Hai Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Thessalonica|ad Thessalonicenses II|<span style="color:red" text-align="center">0/3</span>|
-|Thư Thứ Nhất Ông Thánh Bảo Lộc Tông Đồ, gửi cho ông Timotheô|ad Timotheum I|<span style="color:red" text-align="center">0/6</span>|
-|Thư Thứ Hai Ông Thánh Bảo Lộc Tông Đồ, gửi cho ông Timotheô|ad Timotheum II|<span style="color:red" text-align="center">0/4</span>|
-|Thư Ông Thánh Bảo Lộc Tông Đồ, gửi cho ông Titô|ad Titum|<span style="color:red" text-align="center">0/3</span>|
-|Thư Ông Thánh Bảo Lộc Tông Đồ, gửi cho cho ông Philemô|ad Philemonem|<span style="color:red" text-align="center">0/1</span>|
-|Thư Ông Thánh Bảo Lộc Tông Đồ, gửi cho người Heberêu|ad Hebræos|<span style="color:red" text-align="center">0/13</span>|
-|Thư chung Ông Thánh Jacobê Tông Đồ|Jacobi|<span style="color:red" text-align="center">0/5</span>|
-|Thư thứ nhất Ông Thánh Phêrô Tông Đồ|Petri I|<span style="color:red" text-align="center">0/5</span>|
-|Thư thứ hai Ông Thánh Phêrô Tông Đồ|Petri II|<span style="color:red" text-align="center">0/3</span>|
-|Thư thứ nhất Ông Thánh Juong Tông Đồ|Joannis I|<span style="color:red" text-align="center">0/5</span>|
-|Thư thứ hai Ông Thánh Juong Tông Đồ|Joannis II|<span style="color:red" text-align="center">0/1</span>|
-|Thư thứ ba Ông Thánh Juong Tông Đồ|Joannis III|<span style="color:red" text-align="center">0/1</span>|
-|Thư chung Ông Thánh Juđa Tông Đồ|Judæ|<span style="color:red" text-align="center">0/1</span>|
-|Sách Apocalypsis Ông Thánh Juong Tông Đồ (Sách Khải Huyền)|Apocalypsis|<span style="color:red" text-align="center">0/22</span>|
+|Thánh Evan Chúa Jêsu Kirixitô, cứ như lời ông Mattheô chép|Evangelium secundum Matthæus|0/28|
+|Thánh Evan Chúa Jêsu Kirixitô, cứ như lời ông Marcô chéo|Evangelium secundum Marcus|0/16|
+|Thánh Evan Chúa Jêsu Kirixitô, cứ như lời ông Luca chép|Evangelium secundum Lucas|0/24|
+|Thánh Evan Đức Chúa Jêsu Kirixitô, cứ như lời ông Juong chép|Evangelium secundum Joannes|0/21|
+|Sách Truyện Các Tông Đồ|Actus Apostolorum|0/28|
+|Thư Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Roma|ad Romanos|0/16|
+|Thư Thứ Nhất Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Corinthô|ad Corinthios I|0/16|
+|Thư Thứ Hai Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Corinthô|ad Corinthios II|0/13|
+|Thư Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Galatia|ad Galatas|0/6|
+|Thư Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Ephesô|ad Ephesios|0/6|
+|Thư Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Philippe|ad Philippenses|0/4|
+|Thư Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Colosse|ad Colossenses|0/4|
+|Thư Thứ Nhất Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Thessalonica|ad Thessalonicenses I|0/5|
+|Thư Thứ Hai Ông Thánh Bảo Lộc Tông Đồ, gửi cho người thành Thessalonica|ad Thessalonicenses II|0/3|
+|Thư Thứ Nhất Ông Thánh Bảo Lộc Tông Đồ, gửi cho ông Timotheô|ad Timotheum I|0/6|
+|Thư Thứ Hai Ông Thánh Bảo Lộc Tông Đồ, gửi cho ông Timotheô|ad Timotheum II|0/4|
+|Thư Ông Thánh Bảo Lộc Tông Đồ, gửi cho ông Titô|ad Titum|0/3|
+|Thư Ông Thánh Bảo Lộc Tông Đồ, gửi cho cho ông Philemô|ad Philemonem|0/1|
+|Thư Ông Thánh Bảo Lộc Tông Đồ, gửi cho người Heberêu|ad Hebræos|0/13|
+|Thư chung Ông Thánh Jacobê Tông Đồ|Jacobi|0/5|
+|Thư thứ nhất Ông Thánh Phêrô Tông Đồ|Petri I|0/5|
+|Thư thứ hai Ông Thánh Phêrô Tông Đồ|Petri II|0/3|
+|Thư thứ nhất Ông Thánh Juong Tông Đồ|Joannis I|0/5|
+|Thư thứ hai Ông Thánh Juong Tông Đồ|Joannis II|0/1|
+|Thư thứ ba Ông Thánh Juong Tông Đồ|Joannis III|0/1|
+|Thư chung Ông Thánh Juđa Tông Đồ|Judæ|0/1|
+|Sách Apocalypsis Ông Thánh Juong Tông Đồ (Sách Khải Huyền)|Apocalypsis|0/22|
