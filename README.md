@@ -10,7 +10,7 @@
 ### Sấm Truyền Cũ *(Vetus Testamentum)*
 |Tựa sách|Tên theo Vulgata|Trạng thái|
 |--------|----------------|----------|
-|Genesis|Genesis|5/50|
+|Genesis|Genesis|15/50|
 |Exodus|Exodus|0/40|
 |**[chưa có bản scan]**|Leviticus|0/27|
 |**[chưa có bản scan]**|Numeri|0/36|
